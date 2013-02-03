@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1359898794 source:c:\users\christine\desktop\program\sorting\quicksort_hw\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
